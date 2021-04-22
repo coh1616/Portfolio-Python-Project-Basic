@@ -19,5 +19,5 @@ Watch my [DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
   - This program compares the short DNA sequence with the long one and find the highest similarity in long sequence
 8. [Hangman Game](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/hangman_extension.py)
   - This program plays the hangman game and user needs to find the correct word
-9. [Fire](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/fire.py) & [Mirror Lake](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/mirror_lake.py) & [Blur](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/blur.py) &　[Shrink](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/shrink.py)
+9. [Fire](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/fire.py) & [Mirror Lake](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/mirror_lake.py) & [Blur](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/blur.py) & [Shrink](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/shrink.py)
   - Image Processing
