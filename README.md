@@ -10,7 +10,7 @@ Watch my [DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
 2. [Weather Master](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/weather_master.py) & [Quadratic Solver](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/quadratic_solver.py)
   - python semantics & syntax
 4. [Rocket](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/rocket.py)
-  - This program displays the rocket in any size.
+  - This program displays the rocket in any size
 5. [Caesar](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/caesar.py)
   - This program turns the ciphered word into the deciphered one
 6. [Complement](https://github.com/coh1616/Portfolio-Python-Project-Basic/blob/main/stanCode_SC001/complement.py)
